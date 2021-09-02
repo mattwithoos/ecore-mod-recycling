@@ -1,5 +1,7 @@
 # ECORE: Recycling Mod
 
+This mod returns one third of an item's construction cost. As the game doesn't store what type of material was used in construction (e.g. Redwood Log vs Fir Log for a stockpile, or Granite vs Sandstone for a Stone Tool), I've gone with what I felt was the lowest common denominator - e.g. always return granite. Currently supports most wood & stone tools/objects.
+
 ECORE is a planned set of mods which overhauls the experience of the survival game, Eco.
 
 This mod is one of many, pre-released (with warnings!) for those interested. It includes disassembly recipes added to the Tool Table for most stone objects/items.
