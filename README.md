@@ -20,6 +20,9 @@ Please take note;
 - Custom 3D object / toolbench
 - Maybe specialisation. Maybe...
 
+## Contributions
+I welcome contributions - please open a pull request and I'll merge it in if appropriate.
+
 ## Installation
 
 Please don't install this, it's not ready. If you must, though... for Eco 9.4.1, place this in a folder (name is up to you) in Mods/UserCode, on the Server. That's it.
